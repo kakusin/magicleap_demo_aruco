@@ -1,0 +1,4 @@
+﻿  make: Nothing to be done for 'all'.
+  mabu: using build target 'release_win_msvc-2017-15.9_x64'
+  C:\Users\s-mak\MagicLeap\mlsdk\v0.24.1\tools\mabu\tools\MinGW\msys\1.0\bin\make all -f C:/Users/s-mak/Documents/Projects/MyArUco/.out/release_win_msvc-2017-15.9_x64/top.level.mk -r -R -Oline MLTOOLS=C:/Users/s-mak/MagicLeap/mlsdk/v0.24.1/tools/toolchains MLSDK=C:/Users/s-mak/MagicLeap/mlsdk/v0.24.1 VERBOSE=1 -j8
+  mabu: 'MyArUco' output in '.out\release_win_msvc-2017-15.9_x64'
